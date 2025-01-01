@@ -40,7 +40,7 @@ CREATE TABLE accounts (
 ## Usage
 1. Run the server
 ```bash
-cd ChessServer
+cd Server
 make
 ./ChessServer
 ```
